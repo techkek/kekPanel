@@ -1,0 +1,25 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "simosi1000@gmail.com",
+                "Name": "Simone Checchia"
+            }
+        ],
+        "Category": "",
+        "Description": "Kek's Panel",
+        "EnabledByDefault": true,
+        "Id": "org.kde.plasma.desktop.kekPanel",
+        "License": "LGPLv2+",
+        "Name": "Kek's Panel",
+        "ServiceTypes": [
+            "Plasma/LayoutTemplate"
+        ],
+        "Version": "1.0",
+        "Website": "https://techkek.it"
+    },
+    "X-Plasma-ContainmentCategories": [
+        "panel"
+    ],
+    "X-Plasma-Shell": "plasmashell"
+}
